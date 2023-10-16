@@ -28,6 +28,8 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
+  webview_flutter: ^4.4.1
+  provider: ^6.0.5
   flutter:
     sdk: flutter
 
@@ -88,3 +90,24 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+  assets:
+    - assets/news_images/bd-journal.png
+    - assets/news_images/thedailystar.net.jpg
+    - assets/news_images/bhorerkagoj.net.jpg
+    - assets/news_images/dailyjagaran.com.png
+    - assets/news_images/manobkantha.jpg
+    - assets/news_images/dailyvorerpata.jpg
+    - assets/news_images/kalbela.png
+    - assets/news_images/bd-pratidin.jpg
+    - assets/news_images/ittefaq_bd.jpg
+    - assets/news_images/sangbad_bd.png
+    - assets/news_images/the-daily-inqilab.png
+    - assets/news_images/sangbad.png
+    - assets/news_images/amarsangbad.png
+    - assets/news_images/nayadiganta.png
+    - assets/news_images/dailyjanakantha_bd.jpg
+    - assets/news_images/samakal.net.jpg
+    - assets/news_images/jugantor.png
+    - assets/news_images/prothom_alo.png
+    - assets/news_images/kalerkantho.png
+    - assets/splash_image/splash_image.jpg
